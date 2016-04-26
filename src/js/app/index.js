@@ -1,8 +1,7 @@
 /*
  * Tr@x - a breadcrumb GPS program for your Pebble Time.
+ * By David Brownlee
  */
-
-// Need a 2 pixel buffer around the edges, to give dimensions of x:3->142, y:3->150 
 
 // Required Pebble.js libraries
 var UI = require('ui'); // automatically includes all sub-files
@@ -25,6 +24,7 @@ var granularity = 100;//13; //100; //25; //(25 for production, 0 or 1 is good fo
 //25 works well
 
 // Pebble frame dimensions, in pixels, based on a 144 * 168 UI.Window.
+// Need a 2 pixel buffer around the edges, to give dimensions of x:3->142, y:3->150 
 var border = 2;
 var pebbleFrameXoffset = border;
 var pebbleFrameYoffset = 25 + border; //provides a border of at least 2 on the edges.
