@@ -1,5 +1,5 @@
 /*
- * Tr@x - a breadcrumb GPS program for your Pebble Time.
+ * Trax - a breadcrumb GPS program for your Pebble Time.
  * By David Brownlee
  */
 
