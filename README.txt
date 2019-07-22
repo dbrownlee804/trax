@@ -8,11 +8,11 @@ FEATURES
 
 
 CONTEXT
-The Pebble Trax software was composed in partial fulfillment of a M. Eng. (Software) degree at École de technologie supérieure (Montréal).
+The Pebble Trax software was composed in partial fulfillment of a M. Eng. (Software) degree at Ã‰cole de technologie supÃ©rieure (MontrÃ©al).
 
 
 CONSTRAINTS
-As a mini-master's thesis project, time was an huge constraint.  All aspects of development were intended to take 135 hours, or roughly the equivalent of one month's work, full-time.
+As a master's mini-thesis project, time was an huge constraint.  All aspects of development were intended to take 135 hours, or roughly the equivalent of one month's work, full-time.
 
 The main focus was on maximizing the utility of Pebble's small, 1.25 inch, 64 colour, 144 x 168 pixel screen.  This represents ~2-3% the real estate of a contemporary smartphone.
 
