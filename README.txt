@@ -12,9 +12,9 @@ The Pebble Trax software was composed in partial fulfillment of a M. Eng. (Softw
 
 
 CONSTRAINTS
-As a master's mini-thesis project, time was an huge constraint.  All aspects of development were intended to take 135 hours, or roughly the equivalent of one month's work, full-time.
+As a master's mini-thesis project, time was an huge constraint.  All aspects were intended to take 135 hours, or roughly the equivalent of one month's work, full-time.  Coding, testing and debugging represented only about 55 of these hours.
 
-The main focus was on maximizing the utility of Pebble's small, 1.25 inch, 64 colour, 144 x 168 pixel screen.  This represents ~2-3% the real estate of a contemporary smartphone.
+The main focus was on maximizing the utility of Pebble's small, 1.25 inch, 64 colour, 144 x 168 pixel screen.  This represents ~2-3% the screen real estate of a contemporary smartphone.
 
 For rapidity, Trax was coded in JavaScript against the Pebble.js framework.  This framework had stability and performance issues and was only intended for application prototyping.  While more stable, coding in Pebble's native C would have been prohibitively lengthy.
 
